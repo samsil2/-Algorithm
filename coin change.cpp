@@ -39,7 +39,7 @@ void coins(int V,int arr[],int n)
 // Driver program
 int main()
 {
-	// All denominations of Indian Currency
+	
 int arr[] = {1, 2, 5,12 , 30, 50, 100, 500, 1000};
 int size = sizeof(arr)/sizeof(arr[0]);
 int n = 70;
